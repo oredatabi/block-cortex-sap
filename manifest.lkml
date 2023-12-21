@@ -1,10 +1,10 @@
 constant: CONNECTION_NAME {
-  value: "sap_cortex_database"
+  value: "cortex_sap_block_project"
   export: override_required
 }
 
 constant: GCP_PROJECT {
-  value: "oredata-de-cirrus"
+  value: "olayan-cortex-poc"
   export: override_required
 }
 
@@ -14,6 +14,6 @@ constant: REPORTING_DATASET {
 }
 
 constant: CLIENT {
-  value: "100"
+  value: "101154554359696884423"
   export: override_required
 }
